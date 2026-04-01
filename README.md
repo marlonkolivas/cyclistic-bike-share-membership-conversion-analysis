@@ -28,7 +28,7 @@ How can Cyclistic convert casual riders into annual members?
 
 ### Dashboard
 [View Interactive Dashboard](https://public.tableau.com/app/profile/marlon.kolivas/viz/CyclisticBikeShareAnalysisMembervsCasual/OGCyclisticDashboard) 
-
+![Dashboard Demo](assets/dashboard.gif)
 The dashboard highlights:
 - Hourly, daily, monthly, and seasonal trends
 - Ride duration patterns
